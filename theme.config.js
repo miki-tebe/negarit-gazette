@@ -64,4 +64,8 @@ export default {
   footerEditLink: 'Edit this page on GitHub',
   footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
   unstable_faviconGlyph: '👋',
+  i18n: [
+    { locale: 'en', text: 'English' },
+    { locale: 'am', text: 'አማርኛ' },
+  ]
 }
