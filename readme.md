@@ -1,22 +1,29 @@
-# [Nextra](https://nextra.vercel.app)
+# Negarit
 
-_Warning: this project is not production ready, API might change without notice._
+> The Federal Negarit Gazeta is the government gazette of Ethiopia, defined in Article 71.2 of the 1995 Constitution of Ethiopia and established on 22 August 1995 by the Federal Negarit Gazeta Establishment Proclamation No. 3/1995.
 
-[![](https://vercel.com/button)](https://vercel.com/import/git?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra&c=1)
-
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
-
-![](/public/demo.png)
-
+This project is heavily inspired by [Federal-Negarit-Gazeta](https://github.com/opengazeta/federal-negarit-gazeta) and used resources provided by the project **big thanks**.
 ## Development
 
-The code of Nextra is under the [`core`](https://github.com/shuding/nextra/tree/core) branch.
+Built using **[Nextra](https://github.com/shuding/nextra)** 
 
-## Themes
+> Nextra is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
 
-- [nextra-theme-docs](https://github.com/vercel/swr-site) ([demo](https://swr.vercel.app))
-- [nextra-theme-blog](https://github.com/shuding/site) ([demo](https://shud.in))
 
----
+Hosted on [Vercel](https://vercel.com/)
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+## Installing
+
+```
+Clone the repository 
+cd negarit-gazette
+yarn install or npm install 
+yarn run dev or npm run dev
+```
+
+## Contribution
+
+Follow the steps in [Contributing](.github/CONTRIBUTING.md)
+## Licence
+
+Released under the MIT [license](LICENSE).
