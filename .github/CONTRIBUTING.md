@@ -176,11 +176,11 @@ where <abstract> is the brief abstract that describes the purpose of the proclam
 
 The above example result looks like:
 
-![](/public/mdx_output_1.png)
-![](/public/mdx_output_2.png)
-![](/public/mdx_output_3.png)
-![](/public/mdx_output_4.png)
-![](/public/mdx_output_5.png)
+![](/public/mdx_output_1.PNG)
+![](/public/mdx_output_2.PNG)
+![](/public/mdx_output_3.PNG)
+![](/public/mdx_output_4.PNG)
+![](/public/mdx_output_5.PNG)
 
 
 For more information check out [MDXJS](https://mdxjs.com/) documentation
