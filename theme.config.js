@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">Negarit</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        Federal Negarit Gazette
+        Federal Negarit Gazeta
       </span>
     </>
   ),
@@ -16,14 +16,14 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Negarit: the Federal Negarit Gazette" />
-      <meta name="og:description" content="Negarit: the Federal Negarit Gazette" />
+      <meta name="description" content="Negarit: The Federal Negarit Gazeta" key="desc" />
+      <meta name="og:description" content="Negarit: The Federal Negarit Gazeta" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
+      <meta name="twitter:image" content="/og.png" />
+      <meta name="twitter:site:domain" content="negarit-gazette.vercel.app" />
+      <meta name="twitter:url" content="https://negarit-gazette.vercel.app/" />
+      <meta name="og:title" content="Federal Negarit Gazeta" />
+      <meta name="og:image" content="/og.png" />
       <meta name="apple-mobile-web-app-title" content="Negarit" />
       <link
         rel="apple-touch-icon"
