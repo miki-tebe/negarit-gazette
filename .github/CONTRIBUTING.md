@@ -200,5 +200,34 @@ Commit message should be formatted as
   git commit -m "proclamation 481/2006"
 ```
 
+### Style Guidelines
+
+---
+
+1. Use consistent formatting for headings, subheadings, and lists.
+2. Use proper indentation for nested lists and code blocks.
+3. Use code formatting for nested lists and ensure proper alignment.
+4. Use consistent naming conventions for files and folders.
+5. Use proper markdown syntax for links, images, and code blocks.
+6. Ensure proper spacing and alignment for readability.
+
+### Commit Message Guidelines
+
+---
+
+1. Use a clear and concise commit message format.
+2. Include the proclamation number and year in the commit message.
+3. Use the format: `git commit -m "proclamation <proclamation_no>/<year>"`.
+4. Example: `git commit -m "proclamation 481/2006"`.
+
+### Pull Request Guidelines
+
+---
+
+1. Ensure your pull request follows the guidelines mentioned in this document.
+2. Provide a clear and concise description of the changes made.
+3. Reference the related issue or discussion in the pull request description.
+4. Ensure your code follows the style guidelines and passes any tests or checks.
+5. Be responsive to feedback and make necessary changes promptly.
 
 **For any question or suggestion use [discussions](https://github.com/miki-tebe/negarit-gazette/discussions)**
